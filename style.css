@@ -9,3 +9,10 @@ body{
     color:var(cor-base)
   /* root é caixinha de variaveis */ 
 }
+ 
+header{
+    display: flex;
+    align-content: stretch;
+    flex-direction: row;
+    align-items: flex-end
+}
