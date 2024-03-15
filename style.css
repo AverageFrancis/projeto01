@@ -8,6 +8,8 @@ body{
     background-color: var(cor-fundo);
     color:var(cor-base)
   /* root é caixinha de variaveis :(*/ 
+
+
 }
  
 header{
@@ -15,4 +17,13 @@ header{
     align-content: stretch;
     flex-direction: row;
     align-items: flex-end
+
+    /*img-intro{
+        width: 20%
+    }
+*/
+.intro{
+    display: flex;
+}
+   
 }
