@@ -44,7 +44,8 @@ header{
         width: 50%
     
     }
-a{
+    
+header     a{
 color:rgb(238, 53, 53);
 
 text-decoration: none;
