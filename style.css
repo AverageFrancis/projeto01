@@ -6,7 +6,7 @@
 }
 body{
     background-color: var(--cor-fundo);
-    color:var();
+    color:var(--cor-base);
   /* root é caixinha de variaveis :(*/ 
   font-family: "Kumar One", serif;
   font-weight: 400;
