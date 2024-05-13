@@ -31,7 +31,7 @@ header{
         width: 10%
     }
 .intro{
-    display: flex;
+    margin: 0 auto;
 }
    
 .introdução{
