@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
 
 :root{
---cor-fundo: #80badb;
---cor-base:#fdfdfd ;
+--cor-fundo: #ffffff;
+--cor-base:#000000 ;
 }
 body{
     background-color: var(--cor-fundo);
